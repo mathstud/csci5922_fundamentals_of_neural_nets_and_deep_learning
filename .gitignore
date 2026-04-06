@@ -1,0 +1,15 @@
+# Ignore .vscode settings
+.vscode/
+
+# Ignore the large dataset
+data/farm_insects_data.zip
+
+# Ignore the unzipped data folder
+data/farm_insects_data/
+
+# Ignore the template zip for the outline
+CSCI_49225922_Final_Project_Template.zip
+
+# Ignore Python checkpoints
+.ipynb_checkpoints/
+__pycache__/
